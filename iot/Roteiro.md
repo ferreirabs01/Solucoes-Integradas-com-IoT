@@ -38,3 +38,18 @@ Arduino
 Nivelamento
 ---
 Linguagem C/C++
+
+
+Classrom
+---
+
+1 - Todos tem cadastro no classroom ?
+    se não providenciar com gmail e incluir os alunos na truma: 
+
+    ![alt text](image-1.png)
+
+    ou pelo link : 
+    https://classroom.google.com/c/NjU5MDk5MTg1NzM4?cjc=fff2wqn
+
+    
+    
