@@ -27,6 +27,7 @@ Movimento (Acelerômetro, Giroscópio):
 Detecta movimento ou mudanças de orientação. Sensores como o MPU6050 podem medir aceleração e orientação.
 
 #Grandezas de saída
+---
 
 
 Luminosidade (LEDs):
