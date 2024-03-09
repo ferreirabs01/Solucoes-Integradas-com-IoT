@@ -39,6 +39,10 @@ Nivelamento
 ---
 Linguagem C/C++
 
+API 
+ (Interface de Programação de Aplicações)
+Uma API facilita a interação entre diferentes softwares, permitindo que eles "conversem" entre si de maneira eficiente e padronizada. Isso é essencial para a criação de aplicativos e serviços mais complexos, pois permite que diferentes partes de um sistema funcionem juntas de forma harmoniosa. Exemplo do garçom.
+
 
 Classrom
 ---
