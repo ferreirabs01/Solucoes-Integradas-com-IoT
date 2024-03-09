@@ -1,3 +1,8 @@
+Nas ciências 
+ grandezas físicas são as propriedades mensuráveis de um fenômeno, corpo ou substância. Sendo necessário que essas propriedades possam ser expressas quantitativamente: No caso das grandezas escalares: por meio de um número + e de uma "referência de tamanho";
+  tempo (segundo, s); massa (quilograma, kg); comprimento (metro, m); temperatura (kelvin, K); quantidade de substância (mol); corrente elétrica (ampere, A), intensidade luminosa (candela, cd).
+
+  
 Em Arduino, o foco principal é na interação com o mundo físico por meio de sensores e atuadores. Algumas das grandezas físicas mais comuns associadas a projetos Arduino incluem:
 
 #Grandezas de entrada
