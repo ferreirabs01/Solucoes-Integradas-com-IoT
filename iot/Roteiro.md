@@ -52,3 +52,30 @@ Classrom
     https://classroom.google.com/c/NjU5MDk5MTg1NzM4?cjc=fff2wqn
     
     
+ Arduino
+---
+
+![alt text](image-3.png)
+
+Protoboard ou breadboard
+---
+![alt text](image-4.png)
+
+Resistores e Led
+--- 
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+
+
+Com esses componentes ja podemos começar alguns projetos
+---
+
+![alt text](image-7.png)
+
+
+Thinkercad
+---
+https://www.tinkercad.com/
+
